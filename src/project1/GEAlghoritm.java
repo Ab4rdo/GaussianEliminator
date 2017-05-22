@@ -34,7 +34,7 @@ public class GEAlghoritm {
 			}
 		
 		
-		
+		/*
 		if(matrix[currPivRow][currPivCol] != 0) {
 			// this is pivot
 		} else {
@@ -45,7 +45,7 @@ public class GEAlghoritm {
 				}
 			}
 		}
-		
+		*/
 		
 		
 	}
