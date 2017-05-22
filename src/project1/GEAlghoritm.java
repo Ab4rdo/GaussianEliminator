@@ -34,35 +34,8 @@ public class GEAlghoritm {
 			}
 		
 		
-		/*
-		if(matrix[currPivRow][currPivCol] != 0) {
-			// this is pivot
-		} else {
-			for(int i = 0 ; i < matrix.length ; i++) {
-				if(matrix[i][currPivCol] != 0) {
-					swap(currPivRow , i);
-					break;
-				}
-			}
-		}
-		*/
-		
 		
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	/* ERO
 	1. swap rows
